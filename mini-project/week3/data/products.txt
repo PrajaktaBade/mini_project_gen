@@ -1,0 +1,14 @@
+product,price
+Espresso,2.5
+Americano,2.75
+Cappuccino,3.0
+Latte,3.5
+Mocha,3.75
+Flat White,3.25
+Tea,2.0
+Fresh Orange Juice,3.0
+Blueberry Muffin,2.8
+Chocolate Croissant,3.2
+Bagel,3.5
+Avocado Toast,4.25
+Caesar Slad,5.5
