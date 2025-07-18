@@ -57,12 +57,12 @@ The client is a newly launched **pop-up café** operating in a busy business dis
 1. **Clone or Download** the repository to your local machine.
 
 2. Each week's version of the project is organized into separate folders:
-   - [week1](https://github.com/DE-X6-LM/Prajakta-portfolio/blob/main/mini-project/week1/sources/app_w1.py) – Product Management with basic menu navigation
-   - [week2](https://github.com/DE-X6-LM/Prajakta-portfolio/blob/main/mini-project/week2/sources/app_w2.py) – Added Order Management and order status tracking
-   - [week3](https://github.com/DE-X6-LM/Prajakta-portfolio/blob/main/mini-project/week3/sources/app_w3.py) – Introduced Courier Management and data persistence using CSV files
-   - [week4](https://github.com/DE-X6-LM/Prajakta-portfolio/tree/main/mini-project/week4/sources/app_w4.py) - Refactored code to use dictionaries and CSV files.Introduced unit testing to check correctness of functions.
-   - [week5](https://github.com/DE-X6-LM/Prajakta-portfolio/tree/main/mini-project/week5/sources/app_w5.py) - Refactored the code to connect with a local database and store data in the corresponding database tables.
-   - [week6](https://github.com/DE-X6-LM/Prajakta-portfolio/tree/main/mini-project/week6/sources/final_app.py) - Refactored code to use order_status table separately and added file handling
+   - [week1](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week1/sources/app_w1.py) – Product Management with basic menu navigation
+   - [week2](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week2/sources/app_w2.py) – Added Order Management and order status tracking
+   - [week3](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week3/sources/app_w3.py) – Introduced Courier Management and data persistence using CSV files
+   - [week4](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week4/sources/app_w4.py) - Refactored code to use dictionaries and CSV files.Introduced unit testing to check correctness of functions.
+   - [week5](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week5/sources/app_w5.py) - Refactored the code to connect with a local database and store data in the corresponding database tables.
+   - [week6](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week6/sources/final_app.py) - Refactored code to use order_status table separately and added file handling
 3. Navigate into the folder for the version you want to run. For example:
    ```bash
    cd week3
