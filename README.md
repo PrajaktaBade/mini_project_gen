@@ -90,7 +90,7 @@ The client is a newly launched **pop-up café** operating in a busy business dis
 
 ## 🧪 How to Run Unit Tests (with pytest)
 
-Unit tests for this project are located in the [**Week 4**](https://github.com/DE-X6-LM/Prajakta-portfolio/tree/main/mini-project/week4/sources) folder and use the `pytest` framework.
+Unit tests for this project are located in the [**Week 4**](https://github.com/PrajaktaBade/mini_project_gen/tree/main/mini-project/week4/sources) folder and use the `pytest` framework.
 
 ### 🔧 Prerequisites:
 Make sure `pytest` is installed. You can install it using pip:
